@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rishabh-raj-1b971a1a3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect" />
   </a>
-  <a href="mailto: Rishabh2743@gmail.com">
+  <a href="Rishabh2743@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
