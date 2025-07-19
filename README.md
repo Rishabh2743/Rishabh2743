@@ -31,7 +31,7 @@
 `Git` `GitHub` `Azure Services` `Swagger` `Postman` `Docker` `Kubernetes` `CI/CD` `JWT` `OAuth2.0`
 
 ### ⚙️ Frameworks & Cloud
-`Spring Boot` `React.js` `AWS` `Apache Kafka` `Microservices` `REST APIs`
+`Spring Boot`  `Node js` `Fastapi``React.js` `AWS` `Apache Kafka` `Microservices` `REST APIs`
 
 ### 💡 Other Expertise
 `DSA` `System Design` `Low-Level Design (LLD)` `High-Level Design (HLD)`  
