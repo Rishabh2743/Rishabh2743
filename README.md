@@ -44,7 +44,7 @@ I'm a passionate **Software Developer** currently working at **Paysecure**. With
 ### 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-raj-1b971a1a3/)
-- 📫 Email: your.email@example.com  
+- 📫 Email: rishabh2743@gmail.com
 - 💬 Open to freelance, collab, or full-time opportunities
 
 ---
