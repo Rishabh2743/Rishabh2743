@@ -71,7 +71,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: [Rishabh2743@gmail.com](mailto:Rishabh2743@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/rishabh-raj-1b971a1a3](https://www.linkedin.com/in/rishabh-raj-1b971a1a3/)
+- 🔗 LinkedIn: [linkedin.com/in/rishabh2743](https://www.linkedin.com/in/rishabh2743/)
 - 💻 GitHub: [github.com/Rishabh2743](https://github.com/Rishabh2743)
 
 ---
